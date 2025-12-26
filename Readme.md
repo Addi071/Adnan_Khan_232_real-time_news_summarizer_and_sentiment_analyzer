@@ -139,9 +139,3 @@ MGM’s College of Engineering, Nanded
 
 ---
 
-## 📜 License
-
-This project is developed for academic purposes and is open for learning and enhancement.
-
-```
-```
