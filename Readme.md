@@ -1,4 +1,4 @@
-```md
+
 # 📰 Real-Time News Analysis and Summarization System
 
 ## 📌 Project Overview
@@ -43,7 +43,7 @@ The **Real-Time News Analysis and Summarization System** is designed to solve th
 ---
 
 ## 🔄 System Workflow
-```
+
 
 Frontend (React)
 ↓
@@ -53,7 +53,6 @@ AI Models (Fake News, Summarization, Sentiment, Keywords)
 ↓
 MongoDB Database
 
-````
 
 ---
 
@@ -77,11 +76,11 @@ python app.py
 
 ### 3️⃣ Frontend Setup (React)
 
-```bash
+
 cd frontend
 npm install
 npm start
-```
+
 
 ### 4️⃣ MongoDB Setup
 
